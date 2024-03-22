@@ -4,3 +4,5 @@ pipeline{
         label 'docker-slave'
     }
 }
+
+//new
