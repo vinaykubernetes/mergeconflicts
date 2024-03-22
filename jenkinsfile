@@ -1,4 +1,6 @@
 // Commented a code
 pipeline{
-
+  agent{
+    label 'any'
+  }
 }
